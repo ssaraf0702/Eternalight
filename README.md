@@ -1,5 +1,5 @@
 <h1 align="center">
-    <b>User Registration & Login systems in<br> Node.js using MongoDB </b> 
+    <b>User Registration & Login systems</b>
 <br>
 </h1>
 
